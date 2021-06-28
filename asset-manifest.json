@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "https://dileepadari.github.io/csb-cppty/static/css/main.f29ae65a.chunk.css",
+    "main.js": "https://dileepadari.github.io/csb-cppty/static/js/main.c5f61bdd.chunk.js",
+    "main.js.map": "https://dileepadari.github.io/csb-cppty/static/js/main.c5f61bdd.chunk.js.map",
+    "runtime-main.js": "https://dileepadari.github.io/csb-cppty/static/js/runtime-main.7707e4d5.js",
+    "runtime-main.js.map": "https://dileepadari.github.io/csb-cppty/static/js/runtime-main.7707e4d5.js.map",
+    "static/js/2.2350909c.chunk.js": "https://dileepadari.github.io/csb-cppty/static/js/2.2350909c.chunk.js",
+    "static/js/2.2350909c.chunk.js.map": "https://dileepadari.github.io/csb-cppty/static/js/2.2350909c.chunk.js.map",
+    "index.html": "https://dileepadari.github.io/csb-cppty/index.html",
+    "static/css/main.f29ae65a.chunk.css.map": "https://dileepadari.github.io/csb-cppty/static/css/main.f29ae65a.chunk.css.map",
+    "static/js/2.2350909c.chunk.js.LICENSE.txt": "https://dileepadari.github.io/csb-cppty/static/js/2.2350909c.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.7707e4d5.js",
+    "static/js/2.2350909c.chunk.js",
+    "static/css/main.f29ae65a.chunk.css",
+    "static/js/main.c5f61bdd.chunk.js"
+  ]
+}
